@@ -1,0 +1,4 @@
+This single-page PDF incorporates all details from your LinkedIn profile—including your professional email (ranjanpradhan.tech@gmail.com), LinkedIn URL (linkedin.com/in/ranjan-pradhan), MCA from Sarvajanik College of Engineering & Technology (SCET, GTU) (2019–2021), and BCA from Shri Shambhubhai V. Patel College of Computer Science & Business Management (VNSGU) (2016–2019)—while tailoring your execution sandboxes, Docker/Terraform/CI/CD automation, and tech lead experience directly to the role.
+Would you like to add your GitHub profile URL or 1–2 specific repository links to the header/experience section, or prepare for the technical screening assessment for this role?
+
+New Changes
